@@ -8,7 +8,9 @@ It currently uses local mongoDB for storage.
 Install MongoDB community edition on your local machine.
 
 Run to install all of the required packages:
-``` ~ npm install ````
+```
+$ npm install 
+```
 
  It is currently setup to use port 5000, you can change this if needed in the server.js file.
 
