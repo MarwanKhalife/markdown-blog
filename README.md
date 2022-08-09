@@ -12,7 +12,7 @@ Run to install all of the required packages:
 $ npm install 
 ```
 
- It is currently setup to use port 5000, you can change this if needed in the server.js file.
+ It is currently setup to use port 3001, you can change this if needed in the server.js file.
 
 
 ## Possible improvements

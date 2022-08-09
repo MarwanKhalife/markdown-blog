@@ -21,4 +21,7 @@ app.get('/', async (req, res) => {
 
 app.use('/articles', articleRouter)
 
-app.listen(5000)
+const PORT = process.env.PORT || 3001
+app.listen(PORT, () => {
+    console.log(`Server Up in Port ${PORT}`);
+})
