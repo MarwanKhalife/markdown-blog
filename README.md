@@ -1,4 +1,4 @@
-# Blog website for Markdown content
+# Blog for Markdown content.
 
 This blog will allow you to create articles using markdown as input.
 It currently uses local mongoDB for storage.
